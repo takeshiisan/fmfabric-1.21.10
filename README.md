@@ -1,1 +1,1 @@
-#FMfabric for Minecraft 1.21.10
+# FMfabric for Minecraft 1.21.10
